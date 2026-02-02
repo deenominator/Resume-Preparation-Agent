@@ -16,6 +16,7 @@ This agent is responsible for:
 
 ## Workflow
 
+```Text
 Resume (PDF)
     │
     ▼
@@ -41,7 +42,7 @@ LaTeX PDF Generation
     │
     ▼
 Optimized Resume
-
+```
 
 ## Tech Stack
 
