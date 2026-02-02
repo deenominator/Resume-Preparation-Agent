@@ -48,7 +48,7 @@ Optimized Resume
 
 ### LLM
 - GPT-4o (primary)
-- 
+
 ### Frameworks
 - LangChain (agent creation and tools)
 - LangGraph (workflow orchestration – future integration)
