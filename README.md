@@ -17,21 +17,29 @@ This agent is responsible for:
 ## Workflow
 
 Resume (PDF)
-     ↓
+    │
+    ▼
 Text Extraction (pdfminer)
-     ↓
+    │
+    ▼
 Resume Keyword Extraction (spaCy)
-     ↓
+    │
+    ▼
 Job Description Fetch (Google Serper)
-     ↓
+    │
+    ▼
 Job Keyword Extraction (spaCy)
-     ↓
+    │
+    ▼
 ATS Keyword Matching
-     ↓
+    │
+    ▼
 Bullet Point Rewriting (GPT-4o)
-     ↓
+    │
+    ▼
 LaTeX PDF Generation
-     ↓
+    │
+    ▼
 Optimized Resume
 
 
