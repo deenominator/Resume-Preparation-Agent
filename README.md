@@ -58,3 +58,11 @@ Optimized Resume
 - spaCy – keyword extraction and matching
 - Google Serper - To look up current job descriptions/keywords for specific roles
 - LaTeX - high-quality PDF generation
+
+## Environment Setup
+
+```bash
+conda create -n resume-agent python=3.10
+conda activate resume-agent
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
